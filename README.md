@@ -3,9 +3,9 @@ Mac Apps, Tools and Configs 💻 ⚒
 
 ## Table of Contents
 
-- [Apps](#Apps 👨‍💻)
-- [Terminal](#Terminal 💻)
-- [Config](#Config ⚙️)
+- [Apps](#Apps-👨‍💻)
+- [Terminal](#Terminal-💻)
+- [Config](#Config-⚙️)
 
 ## Apps 👨‍💻
 
@@ -180,4 +180,3 @@ Apps in my Macbook. I prefer native apps, open source.
   - Trackpad Options: 
 
     ![trackpad-options](./resources/images/trackpad-options.png)
-
