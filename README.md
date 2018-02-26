@@ -11,6 +11,8 @@ Mac Apps, Tools and Configs 💻 ⚒
 
 👨‍💻 Apps in my Macbook. I prefer native apps, open source.
 
+> And If you can not install any app, feel free to get in touch with me or create [issues](https://github.com/suhv/mac-setup/issues/new)
+
 ### [Android Studio](https://developer.android.com/studio/index.html)
 
 - The Official IDE for Android
