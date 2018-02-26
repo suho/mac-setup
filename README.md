@@ -1,7 +1,13 @@
 # mac-setup
 Mac Apps, Tools and Configs 💻 ⚒
 
-## Apps
+## Table of Contents
+
+- [Apps](#Apps 👨‍💻)
+- [Terminal](#Terminal 💻)
+- [Config](#Config ⚙️)
+
+## Apps 👨‍💻
 
 Apps in my Macbook. I prefer native apps, open source.
 
@@ -71,9 +77,19 @@ Apps in my Macbook. I prefer native apps, open source.
 
 - Code Editing. Redefined
 
-### Xcode
+### [Xcode](https://developer.apple.com/xcode/)
 
-### Zeplin
+- Xcode includes everything you need to create amazing apps for iPhone, iPad, Mac, Apple Watch, and Apple TV.
+
+### [Zeplin](https://zeplin.io/)
+
+- Build pixel perfect apps in peace
+
+## Terminal 💻
+
+### [brew](https://brew.sh/)
+
+- The missing package manager for macOS
 
 ## Terminal
 
