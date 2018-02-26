@@ -3,9 +3,9 @@ Mac Apps, Tools and Configs 💻 ⚒
 
 ## Table of Contents
 
-- [Apps](#Apps)
-- [Terminal](#Terminal)
-- [Config](#Config)
+- [Apps](#apps)
+- [Terminal](#terminal)
+- [Config](#config)
 
 ## Apps
 
