@@ -3,13 +3,13 @@ Mac Apps, Tools and Configs 💻 ⚒
 
 ## Table of Contents
 
-- [Apps](#Apps-👨‍💻)
-- [Terminal](#Terminal-💻)
-- [Config](#Config-⚙️)
+- [Apps](#Apps)
+- [Terminal](#Terminal)
+- [Config](#Config)
 
-## Apps 👨‍💻
+## Apps
 
-Apps in my Macbook. I prefer native apps, open source.
+👨‍💻 Apps in my Macbook. I prefer native apps, open source.
 
 ### [Android Studio](https://developer.android.com/studio/index.html)
 
@@ -97,7 +97,9 @@ Apps in my Macbook. I prefer native apps, open source.
 
 - Build pixel perfect apps in peace
 
-## Terminal 💻
+## Terminal
+
+💻💻 Tools for Terminal
 
 ### [brew](https://brew.sh/)
 
@@ -129,9 +131,9 @@ Apps in my Macbook. I prefer native apps, open source.
 
   - Like rbenv and pyenv, but for `Go`.
 
-## Config ⚙️
+## Config
 
-### System Preferences
+### System Preferences ⚙️
 
 #### Desktop & Screen Saver
 
