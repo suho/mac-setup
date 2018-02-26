@@ -47,13 +47,21 @@ Apps in my Macbook. I prefer native apps, open source.
 
 - Simplicity and power in a beautiful Git GUI
 
-### Spotify
+### [Spotify](https://www.spotify.com/)
 
-### TablePlus
+- Music for everyone
 
-### Telegram
+### [TablePlus](https://tableplus.io/)
+
+- Modern, native, and friendly tool for relational databases
+
+### [Telegram](https://telegram.org/)
+
+- A new era of messaging
 
 ### TunnelBear
+
+
 
 ### Typora
 
