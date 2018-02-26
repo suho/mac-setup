@@ -143,3 +143,41 @@ Apps in my Macbook. I prefer native apps, open source.
 
 ![hot-corners](./resources/images/hot-corners.png)
 
+#### Security & Privacy
+
+- Choose `App Store and identified developers` in **General** tab.
+
+#### Build-in Display
+
+- Config `Night Shift` in **Night Shift** tab
+
+#### Keyboard
+
+- **Keyboard**:
+  - Key Repeat: Fast
+  - Delay Until Repeat: Fast
+- **Shortcuts**:
+  - Input Sources: Tick `Select the previous input source` with `⌃Z` (Control+Z)
+
+#### Trackpad
+
+- Point & Click:
+
+  ![point-click](./resources/images/point-click.png)
+
+- Scroll & Zoom:
+
+  ![scroll-zoom](./resources/images/scroll-zoom.png)
+
+- More Gestures:
+
+![more-gesture](./resources/images/more-gesture.png)
+
+#### Accessibility
+
+- Mouse & Trackpad:
+
+  - Trackpad Options: 
+
+    ![trackpad-options](./resources/images/trackpad-options.png)
+
