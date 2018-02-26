@@ -59,13 +59,17 @@ Apps in my Macbook. I prefer native apps, open source.
 
 - A new era of messaging
 
-### TunnelBear
+### [TunnelBear](https://www.tunnelbear.com/download)
 
+- Simple, private, free access to the open Internet
 
+### [Typora](https://typora.io/)
 
-### Typora
+- A markdown editor, markdown reader
 
-### Visual Studio Code
+### [Visual Studio Code](https://code.visualstudio.com/)
+
+- Code Editing. Redefined
 
 ### Xcode
 
@@ -75,11 +79,11 @@ Apps in my Macbook. I prefer native apps, open source.
 
 ### brew
 
-### rbenv
+### bundler
 
 ### nvm
 
-### bundler
+### rbenv
 
 ### goenv
 
