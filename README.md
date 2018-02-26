@@ -113,7 +113,7 @@ Apps in my Macbook. I prefer native apps, open source.
 
 ### [nvm](https://github.com/creationix/nvm)
 
-- Node Version Manager - Simple bash script to manage multiple active node.js versions
+- `Node` Version Manager - Simple bash script to manage multiple active node.js versions
 
 ### Language Version Management
 
@@ -123,7 +123,7 @@ Apps in my Macbook. I prefer native apps, open source.
 
 - #### [pyenv](https://github.com/pyenv/pyenv)
 
-  - Simple Python version management
+  - Simple `Python` version management
 
 - #### [goenv](https://github.com/syndbg/goenv)
 
@@ -132,3 +132,14 @@ Apps in my Macbook. I prefer native apps, open source.
 ## Config ⚙️
 
 ### System Preferences
+
+#### Desktop & Screen Saver
+
+- Using `Word of the Day` to study vocabulary everyday :smile:
+
+#### Mission Control
+
+- Add two `Hot Corners`
+
+![hot-corners](./resources/images/hot-corners.png)
+
