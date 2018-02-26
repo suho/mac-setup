@@ -39,9 +39,13 @@ Apps in my Macbook. I prefer native apps, open source.
 
 - Postman is the complete toolchain for API developers
 
-### Slack
+### [Slack](https://slack.com/)
 
-### Sourcetree
+- Rally your coworkers with messaging, calls, files and your favorite apps in one place
+
+### [Sourcetree](https://www.sourcetreeapp.com/)
+
+- Simplicity and power in a beautiful Git GUI
 
 ### Spotify
 
