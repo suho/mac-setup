@@ -91,22 +91,22 @@ Apps in my Macbook. I prefer native apps, open source.
 
 - The missing package manager for macOS
 
-## Terminal
+### [bundler](http://bundler.io/)
 
-### brew
+- The best way to manage a Ruby application's gems
 
-### bundler
+### oh-my-zsh
 
-### nvm
+### version management
 
-### rbenv
+- #### nvm
 
-### goenv
+- #### rbenv
 
-### pyenv
+- #### goenv
 
-### oy-my-zsh
+- #### pyenv
 
-## Config
+## Config ⚙️
 
 ### System Preferences
