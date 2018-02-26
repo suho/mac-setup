@@ -33,6 +33,18 @@ Apps in my Macbook. I prefer native apps, open source.
 
 ### [Google Chrome]()
 
+- One fast, simple, and secure browser for all your devices
+- Extensions:
+  - [Authenticator](https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai?hl=en-US): For Google Authenticator and Battle.net Authenticator.
+  - [GitHub File Icon](https://chrome.google.com/webstore/detail/github-file-icon/ficfmibkjjnpogdcfhfokmihanoldbfe?hl=en-US): A Chrome Extension which energizes GitHub file system.
+  - [GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci?hl=en-US): Automatically adds repository size to GitHub's repository summary
+  - [Google Dictionary (by Google)](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=en-US): View definitions easily as you browse the web.
+  - [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?hl=en-US): Renders an isometric pixel view of GitHub contribution graphs.
+  - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US): Code tree for GitHub
+  - [Quick-Notifier for ChatWork](https://chrome.google.com/webstore/detail/quick-notifier-for-chatwo/iefjfellkjkdgblkddcopacjclijfjik?hl=en-US): Quick-Notifier for ChatWork is an extension for quickly announcing your notifications on ChatWork.
+  - [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf?hl=en-US): Simplifies the GitHub interface and adds useful features
+  - [ZenHub for GitHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US): ZenHub – Project Management Inside GitHub
+
 ### [IntelliJ IDEA CE](https://www.jetbrains.com/idea/)
 
 - The Java IDE for Professional Developers by JetBrains
@@ -95,17 +107,27 @@ Apps in my Macbook. I prefer native apps, open source.
 
 - The best way to manage a Ruby application's gems
 
-### oh-my-zsh
+### [oh-my-zsh](http://ohmyz.sh/)
 
-### version management
+- Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration. It comes bundled with a ton of helpful functions, helpers, plugins, themes...
 
-- #### nvm
+### [nvm](https://github.com/creationix/nvm)
 
-- #### rbenv
+- Node Version Manager - Simple bash script to manage multiple active node.js versions
 
-- #### goenv
+### Language Version Management
 
-- #### pyenv
+- #### [rbenv](https://github.com/rbenv/rbenv)
+
+  - Groom your app’s `Ruby` environment.
+
+- #### [pyenv](https://github.com/pyenv/pyenv)
+
+  - Simple Python version management
+
+- #### [goenv](https://github.com/syndbg/goenv)
+
+  - Like rbenv and pyenv, but for `Go`.
 
 ## Config ⚙️
 
