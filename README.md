@@ -17,6 +17,10 @@ Mac Apps, Tools and Configs 💻 ⚒
 
 - The Official IDE for Android
 
+### [Adobe XD CC](https://www.adobe.com/sea/products/xd.html)
+
+- UX/UI design, prototyping & collaboration tool
+
 ### [Caprine](https://sindresorhus.com/caprine/)
 
 - Elegant Facebook Messenger desktop app
@@ -33,6 +37,10 @@ Mac Apps, Tools and Configs 💻 ⚒
 
 - A beautiful and optimized GitHub Issues experience for macOS
 
+### [Grammarly](https://app.grammarly.com/)
+
+- Free writing assistant
+
 ### [Google Chrome]()
 
 - One fast, simple, and secure browser for all your devices
@@ -46,6 +54,10 @@ Mac Apps, Tools and Configs 💻 ⚒
   - [Quick-Notifier for ChatWork](https://chrome.google.com/webstore/detail/quick-notifier-for-chatwo/iefjfellkjkdgblkddcopacjclijfjik?hl=en-US): Quick-Notifier for ChatWork is an extension for quickly announcing your notifications on ChatWork.
   - [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf?hl=en-US): Simplifies the GitHub interface and adds useful features
   - [ZenHub for GitHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US): ZenHub – Project Management Inside GitHub
+
+### [IINA](https://github.com/lhc70000/iina)
+
+- The best video player for macOS
 
 ### [IntelliJ IDEA CE](https://www.jetbrains.com/idea/)
 
@@ -91,6 +103,10 @@ Mac Apps, Tools and Configs 💻 ⚒
 
 - Code Editing. Redefined
 
+### [WWDC](https://wwdc.io/)
+
+- The unofficial WWDC app for macOS
+
 ### [Xcode](https://developer.apple.com/xcode/)
 
 - Xcode includes everything you need to create amazing apps for iPhone, iPad, Mac, Apple Watch, and Apple TV.
@@ -98,6 +114,10 @@ Mac Apps, Tools and Configs 💻 ⚒
 ### [Zeplin](https://zeplin.io/)
 
 - Build pixel perfect apps in peace
+
+### [zoom.us](https://zoom.us/)
+
+- Video Conferencing, Web Conferencing, Webinars, Screen Sharing
 
 ## Terminal
 
