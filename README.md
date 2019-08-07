@@ -119,6 +119,7 @@ Mac Apps, Tools and Configs 💻 ⚒
 #### Mission Control
 
 - Add two `Hot Corners`:
+  
     ![hot-corners](./resources/images/hot-corners.png)
 
 #### Security & Privacy
@@ -140,16 +141,21 @@ Mac Apps, Tools and Configs 💻 ⚒
 #### Trackpad
 
 - Point & Click:
+  
     ![point-click](./resources/images/point-click.png)
 
 - Scroll & Zoom:
+  
     ![scroll-zoom](./resources/images/scroll-zoom.png)
 
 - More Gestures:
+  
     ![more-gesture](./resources/images/more-gesture.png)
 
 #### Accessibility
 
 - Mouse & Trackpad:
+  
   - Trackpad Options: 
+  
     ![trackpad-options](./resources/images/trackpad-options.png)
